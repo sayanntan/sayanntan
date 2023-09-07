@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sayantan-das-ab7798218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantan-das-ab7798218" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayantan-das-ab7798218(https://www.linkedin.com/in/sayantan-das-ab7798218)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantan-das-ab7798218" height="30" width="40" /></a>
 <a href="https://fb.com/sayantan.das.7712826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayantan.das.7712826" height="30" width="40" /></a>
 <a href="https://instagram.com/saynn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saynn10" height="30" width="40" /></a>
 </p>
